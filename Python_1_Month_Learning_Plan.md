@@ -1,4 +1,4 @@
-# 🐍 30-Day Python Learning Roadmap for Beginners
+# 🐍 30-Day Python Learning Roadmap
 **Author:** Pavithran Chan
 
 This roadmap is designed to take you from **zero to building small projects** in just one month. Each day includes a specific topic to focus on and check off.
@@ -155,3 +155,4 @@ This roadmap is designed to take you from **zero to building small projects** in
 *   **Official Docs**: [docs.python.org](https://docs.python.org/3/tutorial/)
 *   **Video Course**: [Programming with Mosh (YouTube)](https://www.youtube.com/watch?v=_uQrJ0TkZlc) or [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw)
 *   **Reference**: [W3Schools Python](https://www.w3schools.com/python/)
+
